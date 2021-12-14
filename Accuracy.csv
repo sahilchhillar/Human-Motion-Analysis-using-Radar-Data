@@ -1,0 +1,10 @@
+Model,Accuracy,Type
+Random Forest,0.88125,Raw
+Gaussian Naive Bayes,0.4875,Raw
+KNN,0.8125,Raw
+Random Forest,0.85625,Augmented
+Gaussian Naive Bayes,0.628125,Augmented
+KNN,0.840625,Augmented
+Random Forest,0.878125,Feature Extracted
+Gaussian Naive Bayes,0.534375,Feature Extracted
+KNN,0.8,Feature Extracted

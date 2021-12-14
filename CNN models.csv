@@ -1,0 +1,11 @@
+Unnamed: 0,lr,weight decay,optimizer,loss function,accuracy,type
+0.0,0.001,0.05,SGD,CrossEntropy,0.89375,raw
+1.0,0.002,0.05,SGD,CrossEntropy,0.853125,raw
+2.0,0.001,0.05,Adam,CrossEntropy,0.81875,raw
+3.0,0.002,0.05,Adam,CrossEntropy,0.371875,raw
+4.0,0.001,0.05,SGD,CrossEntropy,0.8875,augmented
+5.0,0.002,0.05,SGD,CrossEntropy,0.896875,augmented
+6.0,0.001,0.05,Adam,CrossEntropy,0.846875,augmented
+7.0,0.002,0.05,Adam,CrossEntropy,0.8375,augmented
+,0.0001,0.05,SGD,KL Loss,0.021875,raw
+,0.0001,0.05,SGD,MSE,0.203125,raw
